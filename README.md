@@ -75,5 +75,5 @@
 </a>
 
 <div align="center">
-  <img src="https://github.com/users/SandaniChamoda/contributions" alt="GitHub contribution grid" />
+  <img src="./assets/contribution-grid.svg" alt="Contribution grid" />
 </div>
