@@ -74,8 +74,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
 
-<h3 align="left">📊   Contribution Graph :</h3>
+<h3 align="left">📊   Contribution Grid :</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaniChamoda&theme=github-dark&hide_border=true&area=true" alt="contribution graph" />
+  <img src="https://ghchart.rshah.org/0ea5e9/SandaniChamoda" alt="contribution grid" />
 </div>
