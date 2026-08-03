@@ -73,14 +73,3 @@
 <a href="#">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
 </a>
-
-
-<img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-###
