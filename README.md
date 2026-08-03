@@ -87,7 +87,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
