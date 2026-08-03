@@ -4,23 +4,16 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Sandani%20Chamoda%20&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=60"  />
 </div>
 
-###
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Android+App+Developer;Problem+Solver+Through+Code;Aspiring+Software+Engineer" />
 </p>
 
-
-###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SandaniChamoda&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/SandaniChamoda?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" />
   <img src="https://img.shields.io/github/stars/SandaniChamoda?label=STARS&style=for-the-badge&color=0ea5e9" />
 </p>
->
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
@@ -40,15 +33,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">🎓 Third-year IT undergraduate at SLIIT (GPA 3.6)  <br>🚀 Full-Stack MERN developer passionate about building scalable solutions  <br>📱 Android app developer focused on user-friendly mobile experiences  <br>💼 Actively seeking internship opportunities in Software Development  <br>🌱 Continuously learning new technologies & best engineering practices  <br>🤝 Known as a fast learner and reliable team collaborator  <br>⚡ I enjoy turning real-world problems into practical software solutions</p>
 
-###
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -75,12 +63,6 @@
 </a>
 
 
-<img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-###
